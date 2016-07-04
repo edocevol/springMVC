@@ -41,6 +41,5 @@ public class ClassTest extends People{
     {
         People classTest = new ClassTest("xiaoniu",23);
         System.out.println(classTest.getUserName());
-
     }
 }
